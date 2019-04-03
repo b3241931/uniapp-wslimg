@@ -1,0 +1,30 @@
+
+.close-view{
+    text-align: center;
+	line-height:14px;
+	height: 16px;
+	width: 16px;
+	border-radius: 50%;
+	background: #FF5053;
+	color: #FFFFFF;
+	position: absolute;
+	top: -6px;
+	right: -4px;
+	font-size: 12px;
+}
+
+
+.content {
+		text-align: center;
+		height: 400rpx;
+}
+.logo{
+        height: 200rpx;
+        width: 200rpx;
+        margin-top: 200rpx;
+}
+.title {
+		font-size: 36rpx;
+		color: #8f8f94;
+}
+
