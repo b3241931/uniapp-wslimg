@@ -185,7 +185,7 @@
 				type:Object,
 				default:() => {
 					return {
-						uplode_token_url:'http://test.api.nijiasheji.com/uploader/getQiniuToken',
+						uplode_token_url:'http://xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx/uploader/getQiniuToken',
 						upload_token_url_header:{},
 						upload_token_url_data:{}
 					}
